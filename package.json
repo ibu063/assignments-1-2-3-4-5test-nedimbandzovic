@@ -1,0 +1,13 @@
+{
+  "name": "assignments-1-2-3-4-5",
+  "version": "1.0.0",
+  "description": "\"# assignments-1-2-3-4-5\"",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
